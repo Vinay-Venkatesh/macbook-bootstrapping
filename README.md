@@ -17,7 +17,7 @@ This repository automates common setup tasks for a new Mac: installing Homebrew 
 
 - A Mac running macOS (This is tested in Apple Silicon).
 - Xcode Command Line Tools (the setup script will prompt or require them for some installs).
-- An internet connection and disable VPN is any for downloading Homebrew, packages, and theme/plugins.
+- An internet connection and disable firewalls is any for downloading Homebrew, packages, and theme/plugins.
 
 ## Quickstart
 
