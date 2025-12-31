@@ -23,7 +23,7 @@ This repository automates common setup tasks for a new Mac: installing Homebrew 
 
 1. Clone this repository:
 
-	git clone https://github.com/your-username/macbook-bootstrapping.git
+	git clone https://github.com/Vinay-Venkatesh/macbook-bootstrapping.git
 	cd macbook-bootstrapping
 
 2. Inspect the main setup script before running it:
