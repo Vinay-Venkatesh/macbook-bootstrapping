@@ -15,3 +15,5 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=8'
 
 # Welcome message
 [[ -r ~/dotfiles/zsh/welcome.sh ]] && source ~/dotfiles/zsh/welcome.sh
+
+typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
